@@ -1,0 +1,15 @@
+# Kicad
+*-save.pro
+*-rescue.lib
+*-rescue.dcm
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*-cache.lib
+**/export/
+*.gbr
+*.drl
+**/bus_export/
+**/default_export/
+
+proto-power/fp-info-cache
